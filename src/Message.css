@@ -1,0 +1,17 @@
+.message{
+    text-align: left;
+    width: fit-content;
+    margin: 5px;
+    padding: 5px;
+}
+
+.message_host{
+    margin-left: auto;
+    background-color: blue;
+    color: white;
+}
+
+.message_guest{
+    background-color: rgb(210,210,210);
+    color: black;
+}
